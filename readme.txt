@@ -1,1 +1,2 @@
-goruntu isleme odevleri.
+goruntu isleme klasoru.
+
